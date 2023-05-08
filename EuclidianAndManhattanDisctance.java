@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio5 {
+public class EuclidianAndManhattanDisctance {
   /**
    * 5. Faça um programa que leia as coordenadas de 2 pontos no plano (x1, y1) e (x2, y2). 
    * A seguir, o programa deve calcular e escrever a distância euclidiana e também a distância 
